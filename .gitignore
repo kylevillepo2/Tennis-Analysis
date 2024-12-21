@@ -4,3 +4,6 @@
 
 #ignore datasets
 /data/*
+
+#ignore runs
+/runs/detect/*
