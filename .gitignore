@@ -1,0 +1,6 @@
+# ignore large model files
+*.pt
+/models/*
+
+#ignore datasets
+/data/*
