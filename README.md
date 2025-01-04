@@ -11,6 +11,6 @@ This is the dataset for the ball detection: https://universe.roboflow.com/viren-
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/vgpmOWjThH0/maxresdefault.jpg)](https://youtu.be/vgpmOWjThH0)
+Here is a gif that displays my code in action.
 
-![Description of the GIF](media/videoEx.gif)
+![](media/videoEx.gif)
