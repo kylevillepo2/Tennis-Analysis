@@ -11,6 +11,6 @@ This is the dataset for the ball detection: https://universe.roboflow.com/viren-
 
 ## Video
 
-<video src="output_videos/output.mp4" width="640" height="360" controls>
-    Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/vgpmOWjThH0/maxresdefault.jpg)](https://youtu.be/vgpmOWjThH0)
+
+![Description of the GIF](media/videoEx.gif)
